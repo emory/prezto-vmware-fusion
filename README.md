@@ -36,8 +36,8 @@ Authors
 
 *The authors of this module should be contacted via the [issue tracker][2].*
 	
-  	- [Emory Lundberg](https://github.com/emory) 
-		- [homepage](http://incumbent.org/)
+  - [Emory Lundberg](https://github.com/emory) 
+    - [homepage](http://incumbent.org/)
 
 
 [1]: http://www.vmware.com/products/fusion
